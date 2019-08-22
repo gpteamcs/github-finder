@@ -7,7 +7,7 @@ class App extends Component {
     const loading = false;
     const showName = true;
     if (loading) {
-      return <h4>loading...</h4>;
+      return <h4>loading....</h4>;
     }
     return (
       <Fragment>
