@@ -1,6 +1,6 @@
 import React, { Component, Fragment } from 'react';
-import Spinner from '../components/layout/spinner';
-import Repos from '../components/repos/Repos';
+import Spinner from '../layout/spinner';
+import Repos from '../repos/Repos';
 
 import PropTypes from 'prop-types';
 import { Link } from 'react-router-dom';
